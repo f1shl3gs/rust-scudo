@@ -13,7 +13,7 @@
 #
 # Usage: pull-scudo.sh
 
-version="llvmorg-18.1.8"  # Keep me up to date!
+version="llvmorg-20.1.5"  # Keep me up to date!
 
 tmp_repo=$(mktemp -d)
 tmp_license=$(mktemp)
